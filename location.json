@@ -1,0 +1,942 @@
+[
+ {
+   "Location": "10 Sector Dwarka",
+   "PSF": "6666.666666666667"
+ },
+ {
+   "Location": "3 Dwarka Sector 9 Road",
+   "PSF": "8301.1583011583"
+ },
+ {
+   "Location": "75 Sector 22 Road",
+   "PSF": "7505.773672055428"
+ },
+ {
+   "Location": "77 Sector 6 Road",
+   "PSF": "4334.3653250774"
+ },
+ {
+   "Location": "78 Sector 6 Road",
+   "PSF": "11574.074074074075"
+ },
+ {
+   "Location": "79 Sector 23 Road",
+   "PSF": "3846.153846153846"
+ },
+ {
+   "Location": "85 Sector 22 Road",
+   "PSF": "5678.233438485804"
+ },
+ {
+   "Location": "86 Sector 21 Road",
+   "PSF": "9067.357512953367"
+ },
+ {
+   "Location": "Abul Fazal Enclave Jamia Nagar",
+   "PSF": "14888.888888888889"
+ },
+ {
+   "Location": "Alaknanda",
+   "PSF": "11856.883258820646"
+ },
+ {
+   "Location": "Alaknanda Gangotri Enclave",
+   "PSF": "13250.0"
+ },
+ {
+   "Location": "Anand Lok",
+   "PSF": "3062.5"
+ },
+ {
+   "Location": "Anand Niketan",
+   "PSF": "2500.0"
+ },
+ {
+   "Location": "Anarkali Colony",
+   "PSF": "14430.01443001443"
+ },
+ {
+   "Location": "Ansal Satbari",
+   "PSF": "2914.238134887594"
+ },
+ {
+   "Location": "Azad Apartments",
+   "PSF": "10833.333333333334"
+ },
+ {
+   "Location": "Babarpur",
+   "PSF": "6040.723981900452"
+ },
+ {
+   "Location": "Badarpur",
+   "PSF": "8028.654485049834"
+ },
+ {
+   "Location": "Bamnoli Sector 28 Dwarka",
+   "PSF": "10000.0"
+ },
+ {
+   "Location": "Batla House Jamia Nagar",
+   "PSF": "12500.0"
+ },
+ {
+   "Location": "Bharat Vihar",
+   "PSF": "4228.095515595515"
+ },
+ {
+   "Location": "Bharthal",
+   "PSF": "11600.0"
+ },
+ {
+   "Location": "Bindapur",
+   "PSF": "5687.074911548029"
+ },
+ {
+   "Location": "Block 18",
+   "PSF": "9277.777777777777"
+ },
+ {
+   "Location": "Block A",
+   "PSF": "3805.5555555555557"
+ },
+ {
+   "Location": "Block C",
+   "PSF": "11457.671957671957"
+ },
+ {
+   "Location": "Block D",
+   "PSF": "11555.555555555555"
+ },
+ {
+   "Location": "Block GH5",
+   "PSF": "14666.666666666666"
+ },
+ {
+   "Location": "Block H",
+   "PSF": "12277.777777777777"
+ },
+ {
+   "Location": "Block SD Delhi",
+   "PSF": "5555.555555555556"
+ },
+ {
+   "Location": "Budh Vihar",
+   "PSF": "7328.703703703704"
+ },
+ {
+   "Location": "Burari",
+   "PSF": "4760.2596394641705"
+ },
+ {
+   "Location": "CVD Line",
+   "PSF": "4990.925589836661"
+ },
+ {
+   "Location": "Chanakya Puri",
+   "PSF": "4090.909090909091"
+ },
+ {
+   "Location": "Chattarpur",
+   "PSF": "4446.998211237566"
+ },
+ {
+   "Location": "Chhattarpur Enclave Phase1",
+   "PSF": "14166.666666666666"
+ },
+ {
+   "Location": "Chittaranjan Park",
+   "PSF": "13218.2575830815"
+ },
+ {
+   "Location": "DLF Farms",
+   "PSF": "5240.7754846779235"
+ },
+ {
+   "Location": "DLF Golf Course",
+   "PSF": "9729.72972972973"
+ },
+ {
+   "Location": "DLF Phase 5",
+   "PSF": "8150.78960774325"
+ },
+ {
+   "Location": "Dabri",
+   "PSF": "6333.333333333333"
+ },
+ {
+   "Location": "Dashrath Puri",
+   "PSF": "5538.461538461538"
+ },
+ {
+   "Location": "Delhi",
+   "PSF": "8072.15055987311"
+ },
+ {
+   "Location": "Delhi Meerut Expressway",
+   "PSF": "6119.578769603647"
+ },
+ {
+   "Location": "Dwarka 11 Sector",
+   "PSF": "2972.972972972973"
+ },
+ {
+   "Location": "Dwarka Mor",
+   "PSF": "5250.259953088139"
+ },
+ {
+   "Location": "Dwarka More",
+   "PSF": "12108.379847771866"
+ },
+ {
+   "Location": "Dwarka Sector3",
+   "PSF": "9444.444444444445"
+ },
+ {
+   "Location": "Dwarka sec 6",
+   "PSF": "10277.777777777777"
+ },
+ {
+   "Location": "East of Kailash",
+   "PSF": "10375.992063492064"
+ },
+ {
+   "Location": "Faridabad Gurgaon Road",
+   "PSF": "15000.0"
+ },
+ {
+   "Location": "Ghitorni",
+   "PSF": "2676.056338028169"
+ },
+ {
+   "Location": "Govindpuri",
+   "PSF": "4607.046437231914"
+ },
+ {
+   "Location": "Greater Kailash",
+   "PSF": "4064.8274829953725"
+ },
+ {
+   "Location": "Greater Kailash II",
+   "PSF": "7894.736842105263"
+ },
+ {
+   "Location": "Greater kailash 1",
+   "PSF": "7504.555555555557"
+ },
+ {
+   "Location": "Gulmohar Enclave",
+   "PSF": "8833.333333333334"
+ },
+ {
+   "Location": "Gurgaon Delhi Expressway",
+   "PSF": "10874.80291246656"
+ },
+ {
+   "Location": "Hari Nagar",
+   "PSF": "5408.002346004915"
+ },
+ {
+   "Location": "Hauz Khas",
+   "PSF": "6370.233581824636"
+ },
+ {
+   "Location": "Hauz Khas Enclave",
+   "PSF": "8305.647840531561"
+ },
+ {
+   "Location": "IP Extension",
+   "PSF": "4000.0"
+ },
+ {
+   "Location": "Jamia Nagar",
+   "PSF": "4329.578811937113"
+ },
+ {
+   "Location": "Jasola",
+   "PSF": "9552.974679929484"
+ },
+ {
+   "Location": "Jasola Vihar Sector 8 Road",
+   "PSF": "8331.02468641699"
+ },
+ {
+   "Location": "Jogabai Extension New Delhi",
+   "PSF": "3535.3535353535353"
+ },
+ {
+   "Location": "Jor bagh",
+   "PSF": "5632.360471070148"
+ },
+ {
+   "Location": "KMP Expressway",
+   "PSF": "10000.0"
+ },
+ {
+   "Location": "Kailash Colony",
+   "PSF": "16363.636363636364"
+ },
+ {
+   "Location": "Kalkaji",
+   "PSF": "11458.37784429429"
+ },
+ {
+   "Location": "Kalkaji Extension",
+   "PSF": "12500.0"
+ },
+ {
+   "Location": "Kalkaji Govindpuri",
+   "PSF": "8916.666666666666"
+ },
+ {
+   "Location": "Kamla Nagar",
+   "PSF": "3997.3351099267156"
+ },
+ {
+   "Location": "KarKardooma",
+   "PSF": "11517.615176151761"
+ },
+ {
+   "Location": "Karampura",
+   "PSF": "10563.38028169014"
+ },
+ {
+   "Location": "Karol Bagh",
+   "PSF": "7814.014695440091"
+ },
+ {
+   "Location": "Katwaria Sarai",
+   "PSF": "3733.3333333333335"
+ },
+ {
+   "Location": "Kaushambi",
+   "PSF": "4025.3846153846152"
+ },
+ {
+   "Location": "Khanpur",
+   "PSF": "3733.3333333333335"
+ },
+ {
+   "Location": "Khanpur Deoli",
+   "PSF": "4444.444444444444"
+ },
+ {
+   "Location": "Khari Baoli Road",
+   "PSF": "7454.068241469817"
+ },
+ {
+   "Location": "Krishna Nagar",
+   "PSF": "10204.081632653062"
+ },
+ {
+   "Location": "Krishna Park Jawahar Park",
+   "PSF": "13761.467889908257"
+ },
+ {
+   "Location": "Kundli",
+   "PSF": "7675.17036825615"
+ },
+ {
+   "Location": "Lajpat Nagar",
+   "PSF": "10944.444444444445"
+ },
+ {
+   "Location": "Lajpat Nagar III",
+   "PSF": "11109.52380952381"
+ },
+ {
+   "Location": "Lalita Park",
+   "PSF": "6461.538461538462"
+ },
+ {
+   "Location": "MBS Nagar Block WZ",
+   "PSF": "13888.888888888889"
+ },
+ {
+   "Location": "Madhu Vihar",
+   "PSF": "5092.592592592593"
+ },
+ {
+   "Location": "Mahavir Enclave",
+   "PSF": "5679.639448870219"
+ },
+ {
+   "Location": "Mahipalpur",
+   "PSF": "3598.0392156862745"
+ },
+ {
+   "Location": "Mandi House",
+   "PSF": "6349.206349206349"
+ },
+ {
+   "Location": "Mansa Ram Park",
+   "PSF": "5332.457296439753"
+ },
+ {
+   "Location": "Masjid moth",
+   "PSF": "6363.636363636364"
+ },
+ {
+   "Location": "Matiala",
+   "PSF": "5444.444444444444"
+ },
+ {
+   "Location": "Mayur Vihar",
+   "PSF": "8609.942786258576"
+ },
+ {
+   "Location": "Mayur Vihar 2 Phase",
+   "PSF": "5000.0"
+ },
+ {
+   "Location": "Mayur Vihar II",
+   "PSF": "9664.643869178923"
+ },
+ {
+   "Location": "Mayur Vihar III",
+   "PSF": "8727.272727272728"
+ },
+ {
+   "Location": "Mayur Vihar Phase 2",
+   "PSF": "13882.35294117647"
+ },
+ {
+   "Location": "Meera Bagh",
+   "PSF": "14545.454545454546"
+ },
+ {
+   "Location": "Mehrauli",
+   "PSF": "6401.2037037037035"
+ },
+ {
+   "Location": "Model Town",
+   "PSF": "9634.146341463415"
+ },
+ {
+   "Location": "Moti Nagar",
+   "PSF": "9310.344827586207"
+ },
+ {
+   "Location": "Mundka",
+   "PSF": "4485.436203466894"
+ },
+ {
+   "Location": "Munirka",
+   "PSF": "5173.089646071013"
+ },
+ {
+   "Location": "Munirka Marg",
+   "PSF": "3200.0"
+ },
+ {
+   "Location": "Munirka Vihar",
+   "PSF": "11305.732484076432"
+ },
+ {
+   "Location": "Nanak Heri Village",
+   "PSF": "9818.819403857393"
+ },
+ {
+   "Location": "Nanak Pura",
+   "PSF": "2873.5632183908046"
+ },
+ {
+   "Location": "Naraina",
+   "PSF": "3125.0"
+ },
+ {
+   "Location": "Naraina Vihar",
+   "PSF": "4100.0"
+ },
+ {
+   "Location": "Nasirpur",
+   "PSF": "6111.111111111111"
+ },
+ {
+   "Location": "Nawada Extension",
+   "PSF": "5000.0"
+ },
+ {
+   "Location": "Neb Sarai",
+   "PSF": "6238.666666666667"
+ },
+ {
+   "Location": "New Ashok Nagar",
+   "PSF": "4505.092360345077"
+ },
+ {
+   "Location": "New Ashok Nagar Block E",
+   "PSF": "5357.142857142857"
+ },
+ {
+   "Location": "New Manglapuri",
+   "PSF": "3268.0"
+ },
+ {
+   "Location": "Nirman Vihar",
+   "PSF": "12240.800671221383"
+ },
+ {
+   "Location": "Noida",
+   "PSF": "3136.991316610556"
+ },
+ {
+   "Location": "Noida Road",
+   "PSF": "2872.09375"
+ },
+ {
+   "Location": "Okhla",
+   "PSF": "4518.324002479938"
+ },
+ {
+   "Location": "Om Nagar",
+   "PSF": "6083.2529383053725"
+ },
+ {
+   "Location": "Om Vihar",
+   "PSF": "7006.256722833248"
+ },
+ {
+   "Location": "Palam",
+   "PSF": "8015.846615846616"
+ },
+ {
+   "Location": "Park End",
+   "PSF": "6349.206349206349"
+ },
+ {
+   "Location": "Paryavaran Complex",
+   "PSF": "10027.777777777777"
+ },
+ {
+   "Location": "Paschim Vihar",
+   "PSF": "9564.307062371136"
+ },
+ {
+   "Location": "Patparganj",
+   "PSF": "7332.210242587601"
+ },
+ {
+   "Location": "Phase 2 Chattarpur Enclave",
+   "PSF": "7751.937984496124"
+ },
+ {
+   "Location": "Pitampura",
+   "PSF": "7971.995128018905"
+ },
+ {
+   "Location": "Pitampura Vaishali",
+   "PSF": "3555.5555555555557"
+ },
+ {
+   "Location": "Pochanpur Colony",
+   "PSF": "8309.941520467835"
+ },
+ {
+   "Location": "Pocket3 Sector24",
+   "PSF": "10500.0"
+ },
+ {
+   "Location": "Pontoon Bridge",
+   "PSF": "8900.0"
+ },
+ {
+   "Location": "Pratap Khand",
+   "PSF": "3726.027397260274"
+ },
+ {
+   "Location": "Preet Vihar",
+   "PSF": "5768.840993806762"
+ },
+ {
+   "Location": "Press Enclave",
+   "PSF": "3076.923076923077"
+ },
+ {
+   "Location": "Punjabi Bagh",
+   "PSF": "6646.031746031746"
+ },
+ {
+   "Location": "Rajpur",
+   "PSF": "3585.5263157894733"
+ },
+ {
+   "Location": "Rama Park",
+   "PSF": "5628.010859262026"
+ },
+ {
+   "Location": "Residential FlatSeelamPur",
+   "PSF": "2755.5555555555557"
+ },
+ {
+   "Location": "Road Number 1",
+   "PSF": "7575.757575757576"
+ },
+ {
+   "Location": "Rohini Extension",
+   "PSF": "8363.636363636364"
+ },
+ {
+   "Location": "Rohini Sector 9",
+   "PSF": "11130.091191289504"
+ },
+ {
+   "Location": "Rohini sector 24",
+   "PSF": "9411.002962644696"
+ },
+ {
+   "Location": "SULTANPUR",
+   "PSF": "4266.666666666667"
+ },
+ {
+   "Location": "Sadulajab",
+   "PSF": "14583.333333333334"
+ },
+ {
+   "Location": "Safdarjung Enclave",
+   "PSF": "16666.666666666668"
+ },
+ {
+   "Location": "Saidabad",
+   "PSF": "9285.714285714286"
+ },
+ {
+   "Location": "Sainik Farms",
+   "PSF": "4099.470899470899"
+ },
+ {
+   "Location": "Saket",
+   "PSF": "10653.24522431216"
+ },
+ {
+   "Location": "Sarita Vihar",
+   "PSF": "9638.588657036813"
+ },
+ {
+   "Location": "Sector 1 Dwarka",
+   "PSF": "2615.3846153846152"
+ },
+ {
+   "Location": "Sector 10",
+   "PSF": "8974.358974358975"
+ },
+ {
+   "Location": "Sector 10 Dwarka",
+   "PSF": "8998.628090356811"
+ },
+ {
+   "Location": "Sector 11 Dwarka",
+   "PSF": "9247.985186174947"
+ },
+ {
+   "Location": "Sector 112",
+   "PSF": "3596.7302452316076"
+ },
+ {
+   "Location": "Sector 12 Dwarka",
+   "PSF": "8776.046723410447"
+ },
+ {
+   "Location": "Sector 13 Dwarka",
+   "PSF": "8690.784532102993"
+ },
+ {
+   "Location": "Sector 13 Rohini",
+   "PSF": "10689.756174055201"
+ },
+ {
+   "Location": "Sector 14 Dwarka",
+   "PSF": "15384.615384615385"
+ },
+ {
+   "Location": "Sector 15 Rohini",
+   "PSF": "9133.03507208306"
+ },
+ {
+   "Location": "Sector 16B Dwarka",
+   "PSF": "9722.222222222223"
+ },
+ {
+   "Location": "Sector 17 Dwarka",
+   "PSF": "8944.444444444443"
+ },
+ {
+   "Location": "Sector 18A Dwarka",
+   "PSF": "8721.841935863591"
+ },
+ {
+   "Location": "Sector 18B Dwarka",
+   "PSF": "10400.0"
+ },
+ {
+   "Location": "Sector 19 Dwarka",
+   "PSF": "9356.663298791678"
+ },
+ {
+   "Location": "Sector 19B",
+   "PSF": "7773.109243697479"
+ },
+ {
+   "Location": "Sector 1A Dwarka",
+   "PSF": "2428.5714285714284"
+ },
+ {
+   "Location": "Sector 2 Dwarka",
+   "PSF": "8028.592866406129"
+ },
+ {
+   "Location": "Sector 20 Rohini",
+   "PSF": "6933.333333333333"
+ },
+ {
+   "Location": "Sector 21 Dwarka",
+   "PSF": "8666.666666666666"
+ },
+ {
+   "Location": "Sector 22 Dwarka",
+   "PSF": "9105.137385586268"
+ },
+ {
+   "Location": "Sector 22 Rohini",
+   "PSF": "6439.0632763375625"
+ },
+ {
+   "Location": "Sector 23 Dwarka",
+   "PSF": "9228.351578613278"
+ },
+ {
+   "Location": "Sector 23 Rohini",
+   "PSF": "6798.870676097041"
+ },
+ {
+   "Location": "Sector 23B Dwarka",
+   "PSF": "8947.368421052632"
+ },
+ {
+   "Location": "Sector 24 Rohini",
+   "PSF": "8075.032434584481"
+ },
+ {
+   "Location": "Sector 25 Rohini",
+   "PSF": "10277.777777777777"
+ },
+ {
+   "Location": "Sector 3 Dwarka",
+   "PSF": "8279.108496012572"
+ },
+ {
+   "Location": "Sector 33 Rohini",
+   "PSF": "6157.024793388429"
+ },
+ {
+   "Location": "Sector 37 Rohini",
+   "PSF": "3413.3333333333335"
+ },
+ {
+   "Location": "Sector 4",
+   "PSF": "6156.819852941177"
+ },
+ {
+   "Location": "Sector 4 Dwarka",
+   "PSF": "9222.225650777791"
+ },
+ {
+   "Location": "Sector 4 Rohini",
+   "PSF": "6666.666666666667"
+ },
+ {
+   "Location": "Sector 5 Dwarka",
+   "PSF": "8383.15592739915"
+ },
+ {
+   "Location": "Sector 6 Dwarka",
+   "PSF": "9159.472611597967"
+ },
+ {
+   "Location": "Sector 7 Dwarka",
+   "PSF": "8722.277652682533"
+ },
+ {
+   "Location": "Sector 8 Dwarka Block B",
+   "PSF": "5263.1578947368425"
+ },
+ {
+   "Location": "Sector 9 Dwarka",
+   "PSF": "8258.235488262344"
+ },
+ {
+   "Location": "Sector 9 Rohini",
+   "PSF": "13211.862211862212"
+ },
+ {
+   "Location": "Sector-14 Rohini",
+   "PSF": "12908.045977011492"
+ },
+ {
+   "Location": "Sector-18 Dwarka",
+   "PSF": "8585.717309865917"
+ },
+ {
+   "Location": "Sector-7 Rohini",
+   "PSF": "10777.777777777777"
+ },
+ {
+   "Location": "Sector-8 Rohini",
+   "PSF": "9671.17988394584"
+ },
+ {
+   "Location": "Sector-D Vasant Kunj",
+   "PSF": "15517.241379310344"
+ },
+ {
+   "Location": "Sector24",
+   "PSF": "15294.117647058823"
+ },
+ {
+   "Location": "Sewak Park",
+   "PSF": "6166.947530864198"
+ },
+ {
+   "Location": "Shahdara",
+   "PSF": "6329.349202416835"
+ },
+ {
+   "Location": "Shaheen Bagh Jamia Nagar",
+   "PSF": "6534.097384097384"
+ },
+ {
+   "Location": "Shakti Nagar",
+   "PSF": "13306.71989354624"
+ },
+ {
+   "Location": "Shakurbasti",
+   "PSF": "5103.202846975089"
+ },
+ {
+   "Location": "Shankar Vihar",
+   "PSF": "3568.8793718772304"
+ },
+ {
+   "Location": "Shanti Park Dwarka",
+   "PSF": "8133.966181197973"
+ },
+ {
+   "Location": "Shastri Nagar",
+   "PSF": "8923.752834467121"
+ },
+ {
+   "Location": "Sheikh Sarai",
+   "PSF": "8377.391130434782"
+ },
+ {
+   "Location": "Sheikh Sarai Phase2 New Delhi",
+   "PSF": "8883.186813186814"
+ },
+ {
+   "Location": "Shivalik",
+   "PSF": "3333.3333333333335"
+ },
+ {
+   "Location": "Sidhartha Nagar",
+   "PSF": "8636.363636363636"
+ },
+ {
+   "Location": "Som Vihar",
+   "PSF": "4600.0"
+ },
+ {
+   "Location": "South Delhi",
+   "PSF": "10714.285714285714"
+ },
+ {
+   "Location": "South Extension 2",
+   "PSF": "10048.58934169279"
+ },
+ {
+   "Location": "Sushant Lok Phase 1 Barakhamba",
+   "PSF": "2555.5555555555557"
+ },
+ {
+   "Location": "Tagore Garden Extension",
+   "PSF": "7222.222222222223"
+ },
+ {
+   "Location": "Transit Camp",
+   "PSF": "4111.111111111111"
+ },
+ {
+   "Location": "Uttam Nagar",
+   "PSF": "5170.133007365433"
+ },
+ {
+   "Location": "Vaishali",
+   "PSF": "6394.052044609665"
+ },
+ {
+   "Location": "Vasant Kunj",
+   "PSF": "10440.344334249206"
+ },
+ {
+   "Location": "Vasant Kunj Marg",
+   "PSF": "7142.857142857143"
+ },
+ {
+   "Location": "Vasant Vihar",
+   "PSF": "4986.111111111111"
+ },
+ {
+   "Location": "Vasundhara Enclave",
+   "PSF": "6568.184574339073"
+ },
+ {
+   "Location": "Vijay Mandal Enclave",
+   "PSF": "5416.666666666667"
+ },
+ {
+   "Location": "Vikas Puri",
+   "PSF": "8245.800489307128"
+ },
+ {
+   "Location": "Vishal Enclave",
+   "PSF": "5282.506259734627"
+ },
+ {
+   "Location": "West End",
+   "PSF": "7957.79452999253"
+ },
+ {
+   "Location": "West Punjabi Bagh",
+   "PSF": "5758.567232922495"
+ },
+ {
+   "Location": "West Sagarpur",
+   "PSF": "5833.333333333333"
+ },
+ {
+   "Location": "Zakir Nagar",
+   "PSF": "15277.777777777777"
+ },
+ {
+   "Location": "greater kailash Enclave 1",
+   "PSF": "11515.151515151516"
+ },
+ {
+   "Location": "i p extension patparganj",
+   "PSF": "11607.37812911726"
+ },
+ {
+   "Location": "mayur vihar phase 1",
+   "PSF": "7700.73599240266"
+ },
+ {
+   "Location": "nawada",
+   "PSF": "5772.095674304582"
+ },
+ {
+   "Location": "param puri",
+   "PSF": "8001.8953289312785"
+ },
+ {
+   "Location": "vikaspuri",
+   "PSF": "8611.111111111111"
+ }
+]

@@ -1,0 +1,942 @@
+[
+ {
+   "Location": "10 Sector Dwarka",
+   "LocationPremium": "2.7450980392156867"
+ },
+ {
+   "Location": "3 Dwarka Sector 9 Road",
+   "LocationPremium": "3.4181240063593004"
+ },
+ {
+   "Location": "75 Sector 22 Road",
+   "LocationPremium": "3.0906126884934113"
+ },
+ {
+   "Location": "77 Sector 6 Road",
+   "LocationPremium": "1.7847386632671647"
+ },
+ {
+   "Location": "78 Sector 6 Road",
+   "LocationPremium": "4.765795206971678"
+ },
+ {
+   "Location": "79 Sector 23 Road",
+   "LocationPremium": "1.5837104072398192"
+ },
+ {
+   "Location": "85 Sector 22 Road",
+   "LocationPremium": "2.338096121729449"
+ },
+ {
+   "Location": "86 Sector 21 Road",
+   "LocationPremium": "3.7336177994513866"
+ },
+ {
+   "Location": "Abul Fazal Enclave Jamia Nagar",
+   "LocationPremium": "6.130718954248366"
+ },
+ {
+   "Location": "Alaknanda",
+   "LocationPremium": "4.882246047749678"
+ },
+ {
+   "Location": "Alaknanda Gangotri Enclave",
+   "LocationPremium": "5.455882352941177"
+ },
+ {
+   "Location": "Anand Lok",
+   "LocationPremium": "1.2610294117647058"
+ },
+ {
+   "Location": "Anand Niketan",
+   "LocationPremium": "1.0294117647058825"
+ },
+ {
+   "Location": "Anarkali Colony",
+   "LocationPremium": "5.941770647653001"
+ },
+ {
+   "Location": "Ansal Satbari",
+   "LocationPremium": "1.199980408483127"
+ },
+ {
+   "Location": "Azad Apartments",
+   "LocationPremium": "4.46078431372549"
+ },
+ {
+   "Location": "Babarpur",
+   "LocationPremium": "2.4873569337237154"
+ },
+ {
+   "Location": "Badarpur",
+   "LocationPremium": "3.3059165526675787"
+ },
+ {
+   "Location": "Bamnoli Sector 28 Dwarka",
+   "LocationPremium": "4.11764705882353"
+ },
+ {
+   "Location": "Batla House Jamia Nagar",
+   "LocationPremium": "5.147058823529412"
+ },
+ {
+   "Location": "Bharat Vihar",
+   "LocationPremium": "1.7409805064216828"
+ },
+ {
+   "Location": "Bharthal",
+   "LocationPremium": "4.776470588235294"
+ },
+ {
+   "Location": "Bindapur",
+   "LocationPremium": "2.341736728284483"
+ },
+ {
+   "Location": "Block 18",
+   "LocationPremium": "3.820261437908497"
+ },
+ {
+   "Location": "Block A",
+   "LocationPremium": "1.5669934640522878"
+ },
+ {
+   "Location": "Block C",
+   "LocationPremium": "4.7178649237472765"
+ },
+ {
+   "Location": "Block D",
+   "LocationPremium": "4.758169934640523"
+ },
+ {
+   "Location": "Block GH5",
+   "LocationPremium": "6.03921568627451"
+ },
+ {
+   "Location": "Block H",
+   "LocationPremium": "5.055555555555555"
+ },
+ {
+   "Location": "Block SD Delhi",
+   "LocationPremium": "2.2875816993464055"
+ },
+ {
+   "Location": "Budh Vihar",
+   "LocationPremium": "3.0177015250544668"
+ },
+ {
+   "Location": "Burari",
+   "LocationPremium": "1.9601069103675997"
+ },
+ {
+   "Location": "CVD Line",
+   "LocationPremium": "2.0550870075798016"
+ },
+ {
+   "Location": "Chanakya Puri",
+   "LocationPremium": "1.6844919786096257"
+ },
+ {
+   "Location": "Chattarpur",
+   "LocationPremium": "1.831116910509586"
+ },
+ {
+   "Location": "Chhattarpur Enclave Phase1",
+   "LocationPremium": "5.833333333333333"
+ },
+ {
+   "Location": "Chittaranjan Park",
+   "LocationPremium": "5.442811945974736"
+ },
+ {
+   "Location": "DLF Farms",
+   "LocationPremium": "2.1579663760438508"
+ },
+ {
+   "Location": "DLF Golf Course",
+   "LocationPremium": "4.006359300476948"
+ },
+ {
+   "Location": "DLF Phase 5",
+   "LocationPremium": "3.356207485541338"
+ },
+ {
+   "Location": "Dabri",
+   "LocationPremium": "2.607843137254902"
+ },
+ {
+   "Location": "Dashrath Puri",
+   "LocationPremium": "2.2805429864253393"
+ },
+ {
+   "Location": "Delhi",
+   "LocationPremium": "3.323826701124222"
+ },
+ {
+   "Location": "Delhi Meerut Expressway",
+   "LocationPremium": "2.519826552189737"
+ },
+ {
+   "Location": "Dwarka 11 Sector",
+   "LocationPremium": "1.2241653418124008"
+ },
+ {
+   "Location": "Dwarka Mor",
+   "LocationPremium": "2.161871745389234"
+ },
+ {
+   "Location": "Dwarka More",
+   "LocationPremium": "4.9858034667295925"
+ },
+ {
+   "Location": "Dwarka Sector3",
+   "LocationPremium": "3.8888888888888893"
+ },
+ {
+   "Location": "Dwarka sec 6",
+   "LocationPremium": "4.23202614379085"
+ },
+ {
+   "Location": "East of Kailash",
+   "LocationPremium": "4.2724673202614385"
+ },
+ {
+   "Location": "Faridabad Gurgaon Road",
+   "LocationPremium": "6.176470588235294"
+ },
+ {
+   "Location": "Ghitorni",
+   "LocationPremium": "1.1019055509527755"
+ },
+ {
+   "Location": "Govindpuri",
+   "LocationPremium": "1.897019121213141"
+ },
+ {
+   "Location": "Greater Kailash",
+   "LocationPremium": "1.6737524929980947"
+ },
+ {
+   "Location": "Greater Kailash II",
+   "LocationPremium": "3.2507739938080498"
+ },
+ {
+   "Location": "Greater kailash 1",
+   "LocationPremium": "3.0901111111111117"
+ },
+ {
+   "Location": "Gulmohar Enclave",
+   "LocationPremium": "3.6372549019607847"
+ },
+ {
+   "Location": "Gurgaon Delhi Expressway",
+   "LocationPremium": "4.477860022780349"
+ },
+ {
+   "Location": "Hari Nagar",
+   "LocationPremium": "2.226824495413789"
+ },
+ {
+   "Location": "Hauz Khas",
+   "LocationPremium": "2.623037357221909"
+ },
+ {
+   "Location": "Hauz Khas Enclave",
+   "LocationPremium": "3.4199726402188784"
+ },
+ {
+   "Location": "IP Extension",
+   "LocationPremium": "1.647058823529412"
+ },
+ {
+   "Location": "Jamia Nagar",
+   "LocationPremium": "1.7827677460917524"
+ },
+ {
+   "Location": "Jasola",
+   "LocationPremium": "3.933577809382729"
+ },
+ {
+   "Location": "Jasola Vihar Sector 8 Road",
+   "LocationPremium": "3.4304219297011134"
+ },
+ {
+   "Location": "Jogabai Extension New Delhi",
+   "LocationPremium": "1.4557338086749851"
+ },
+ {
+   "Location": "Jor bagh",
+   "LocationPremium": "2.3192072527935905"
+ },
+ {
+   "Location": "KMP Expressway",
+   "LocationPremium": "4.11764705882353"
+ },
+ {
+   "Location": "Kailash Colony",
+   "LocationPremium": "6.737967914438503"
+ },
+ {
+   "Location": "Kalkaji",
+   "LocationPremium": "4.718155582944708"
+ },
+ {
+   "Location": "Kalkaji Extension",
+   "LocationPremium": "5.147058823529412"
+ },
+ {
+   "Location": "Kalkaji Govindpuri",
+   "LocationPremium": "3.6715686274509802"
+ },
+ {
+   "Location": "Kamla Nagar",
+   "LocationPremium": "1.6459615158521772"
+ },
+ {
+   "Location": "KarKardooma",
+   "LocationPremium": "4.742547425474255"
+ },
+ {
+   "Location": "Karampura",
+   "LocationPremium": "4.3496271748135875"
+ },
+ {
+   "Location": "Karol Bagh",
+   "LocationPremium": "3.217535462828273"
+ },
+ {
+   "Location": "Katwaria Sarai",
+   "LocationPremium": "1.5372549019607844"
+ },
+ {
+   "Location": "Kaushambi",
+   "LocationPremium": "1.6575113122171945"
+ },
+ {
+   "Location": "Khanpur",
+   "LocationPremium": "1.5372549019607844"
+ },
+ {
+   "Location": "Khanpur Deoli",
+   "LocationPremium": "1.8300653594771243"
+ },
+ {
+   "Location": "Khari Baoli Road",
+   "LocationPremium": "3.069322217075807"
+ },
+ {
+   "Location": "Krishna Nagar",
+   "LocationPremium": "4.201680672268908"
+ },
+ {
+   "Location": "Krishna Park Jawahar Park",
+   "LocationPremium": "5.666486778197518"
+ },
+ {
+   "Location": "Kundli",
+   "LocationPremium": "3.1603642692819442"
+ },
+ {
+   "Location": "Lajpat Nagar",
+   "LocationPremium": "4.506535947712419"
+ },
+ {
+   "Location": "Lajpat Nagar III",
+   "LocationPremium": "4.574509803921568"
+ },
+ {
+   "Location": "Lalita Park",
+   "LocationPremium": "2.6606334841628962"
+ },
+ {
+   "Location": "MBS Nagar Block WZ",
+   "LocationPremium": "5.718954248366013"
+ },
+ {
+   "Location": "Madhu Vihar",
+   "LocationPremium": "2.0969498910675384"
+ },
+ {
+   "Location": "Mahavir Enclave",
+   "LocationPremium": "2.338675067181855"
+ },
+ {
+   "Location": "Mahipalpur",
+   "LocationPremium": "1.4815455594002307"
+ },
+ {
+   "Location": "Mandi House",
+   "LocationPremium": "2.6143790849673203"
+ },
+ {
+   "Location": "Mansa Ram Park",
+   "LocationPremium": "2.1957177102987218"
+ },
+ {
+   "Location": "Masjid moth",
+   "LocationPremium": "2.6203208556149735"
+ },
+ {
+   "Location": "Matiala",
+   "LocationPremium": "2.241830065359477"
+ },
+ {
+   "Location": "Mayur Vihar",
+   "LocationPremium": "3.5452705590476494"
+ },
+ {
+   "Location": "Mayur Vihar 2 Phase",
+   "LocationPremium": "2.058823529411765"
+ },
+ {
+   "Location": "Mayur Vihar II",
+   "LocationPremium": "3.9795592402501447"
+ },
+ {
+   "Location": "Mayur Vihar III",
+   "LocationPremium": "3.5935828877005354"
+ },
+ {
+   "Location": "Mayur Vihar Phase 2",
+   "LocationPremium": "5.716262975778547"
+ },
+ {
+   "Location": "Meera Bagh",
+   "LocationPremium": "5.9893048128342254"
+ },
+ {
+   "Location": "Mehrauli",
+   "LocationPremium": "2.635789760348584"
+ },
+ {
+   "Location": "Model Town",
+   "LocationPremium": "3.96700143472023"
+ },
+ {
+   "Location": "Moti Nagar",
+   "LocationPremium": "3.8336713995943206"
+ },
+ {
+   "Location": "Mundka",
+   "LocationPremium": "1.8469443190746035"
+ },
+ {
+   "Location": "Munirka",
+   "LocationPremium": "2.1300957366174758"
+ },
+ {
+   "Location": "Munirka Marg",
+   "LocationPremium": "1.3176470588235294"
+ },
+ {
+   "Location": "Munirka Vihar",
+   "LocationPremium": "4.655301611090296"
+ },
+ {
+   "Location": "Nanak Heri Village",
+   "LocationPremium": "4.043043283941279"
+ },
+ {
+   "Location": "Nanak Pura",
+   "LocationPremium": "1.1832319134550373"
+ },
+ {
+   "Location": "Naraina",
+   "LocationPremium": "1.286764705882353"
+ },
+ {
+   "Location": "Naraina Vihar",
+   "LocationPremium": "1.688235294117647"
+ },
+ {
+   "Location": "Nasirpur",
+   "LocationPremium": "2.516339869281046"
+ },
+ {
+   "Location": "Nawada Extension",
+   "LocationPremium": "2.058823529411765"
+ },
+ {
+   "Location": "Neb Sarai",
+   "LocationPremium": "2.5688627450980395"
+ },
+ {
+   "Location": "New Ashok Nagar",
+   "LocationPremium": "1.855038030730326"
+ },
+ {
+   "Location": "New Ashok Nagar Block E",
+   "LocationPremium": "2.2058823529411766"
+ },
+ {
+   "Location": "New Manglapuri",
+   "LocationPremium": "1.3456470588235294"
+ },
+ {
+   "Location": "Nirman Vihar",
+   "LocationPremium": "5.040329688149981"
+ },
+ {
+   "Location": "Noida",
+   "LocationPremium": "1.291702306839641"
+ },
+ {
+   "Location": "Noida Road",
+   "LocationPremium": "1.1826268382352942"
+ },
+ {
+   "Location": "Okhla",
+   "LocationPremium": "1.8604863539623275"
+ },
+ {
+   "Location": "Om Nagar",
+   "LocationPremium": "2.504868856949271"
+ },
+ {
+   "Location": "Om Vihar",
+   "LocationPremium": "2.8849292388136907"
+ },
+ {
+   "Location": "Palam",
+   "LocationPremium": "3.3006427241721363"
+ },
+ {
+   "Location": "Park End",
+   "LocationPremium": "2.6143790849673203"
+ },
+ {
+   "Location": "Paryavaran Complex",
+   "LocationPremium": "4.129084967320262"
+ },
+ {
+   "Location": "Paschim Vihar",
+   "LocationPremium": "3.938244084505762"
+ },
+ {
+   "Location": "Patparganj",
+   "LocationPremium": "3.0191453940066593"
+ },
+ {
+   "Location": "Phase 2 Chattarpur Enclave",
+   "LocationPremium": "3.1919744642042867"
+ },
+ {
+   "Location": "Pitampura",
+   "LocationPremium": "3.2825862291842554"
+ },
+ {
+   "Location": "Pitampura Vaishali",
+   "LocationPremium": "1.4640522875816995"
+ },
+ {
+   "Location": "Pochanpur Colony",
+   "LocationPremium": "3.421740626074991"
+ },
+ {
+   "Location": "Pocket3 Sector24",
+   "LocationPremium": "4.3235294117647065"
+ },
+ {
+   "Location": "Pontoon Bridge",
+   "LocationPremium": "3.6647058823529415"
+ },
+ {
+   "Location": "Pratap Khand",
+   "LocationPremium": "1.534246575342466"
+ },
+ {
+   "Location": "Preet Vihar",
+   "LocationPremium": "2.375405115096902"
+ },
+ {
+   "Location": "Press Enclave",
+   "LocationPremium": "1.2669683257918554"
+ },
+ {
+   "Location": "Punjabi Bagh",
+   "LocationPremium": "2.7366013071895425"
+ },
+ {
+   "Location": "Rajpur",
+   "LocationPremium": "1.476393188854489"
+ },
+ {
+   "Location": "Rama Park",
+   "LocationPremium": "2.317416236166717"
+ },
+ {
+   "Location": "Residential FlatSeelamPur",
+   "LocationPremium": "1.1346405228758172"
+ },
+ {
+   "Location": "Road Number 1",
+   "LocationPremium": "3.1194295900178255"
+ },
+ {
+   "Location": "Rohini Extension",
+   "LocationPremium": "3.4438502673796796"
+ },
+ {
+   "Location": "Rohini Sector 9",
+   "LocationPremium": "4.5829787258250905"
+ },
+ {
+   "Location": "Rohini sector 24",
+   "LocationPremium": "3.8751188669713454"
+ },
+ {
+   "Location": "SULTANPUR",
+   "LocationPremium": "1.7568627450980394"
+ },
+ {
+   "Location": "Sadulajab",
+   "LocationPremium": "6.004901960784315"
+ },
+ {
+   "Location": "Safdarjung Enclave",
+   "LocationPremium": "6.862745098039216"
+ },
+ {
+   "Location": "Saidabad",
+   "LocationPremium": "3.8235294117647065"
+ },
+ {
+   "Location": "Sainik Farms",
+   "LocationPremium": "1.6880174291938996"
+ },
+ {
+   "Location": "Saket",
+   "LocationPremium": "4.386630386481478"
+ },
+ {
+   "Location": "Sarita Vihar",
+   "LocationPremium": "3.9688306234857467"
+ },
+ {
+   "Location": "Sector 1 Dwarka",
+   "LocationPremium": "1.0769230769230769"
+ },
+ {
+   "Location": "Sector 10",
+   "LocationPremium": "3.695324283559578"
+ },
+ {
+   "Location": "Sector 10 Dwarka",
+   "LocationPremium": "3.705317448970452"
+ },
+ {
+   "Location": "Sector 11 Dwarka",
+   "LocationPremium": "3.8079939001896843"
+ },
+ {
+   "Location": "Sector 112",
+   "LocationPremium": "1.4810065715659562"
+ },
+ {
+   "Location": "Sector 12 Dwarka",
+   "LocationPremium": "3.6136662978748904"
+ },
+ {
+   "Location": "Sector 13 Dwarka",
+   "LocationPremium": "3.578558336748291"
+ },
+ {
+   "Location": "Sector 13 Rohini",
+   "LocationPremium": "4.401664306963906"
+ },
+ {
+   "Location": "Sector 14 Dwarka",
+   "LocationPremium": "6.334841628959277"
+ },
+ {
+   "Location": "Sector 15 Rohini",
+   "LocationPremium": "3.7606615002694954"
+ },
+ {
+   "Location": "Sector 16B Dwarka",
+   "LocationPremium": "4.003267973856209"
+ },
+ {
+   "Location": "Sector 17 Dwarka",
+   "LocationPremium": "3.683006535947712"
+ },
+ {
+   "Location": "Sector 18A Dwarka",
+   "LocationPremium": "3.5913466794732436"
+ },
+ {
+   "Location": "Sector 18B Dwarka",
+   "LocationPremium": "4.2823529411764705"
+ },
+ {
+   "Location": "Sector 19 Dwarka",
+   "LocationPremium": "3.852743711267162"
+ },
+ {
+   "Location": "Sector 19B",
+   "LocationPremium": "3.2006920415224913"
+ },
+ {
+   "Location": "Sector 1A Dwarka",
+   "LocationPremium": "1.0"
+ },
+ {
+   "Location": "Sector 2 Dwarka",
+   "LocationPremium": "3.305891180284877"
+ },
+ {
+   "Location": "Sector 20 Rohini",
+   "LocationPremium": "2.854901960784314"
+ },
+ {
+   "Location": "Sector 21 Dwarka",
+   "LocationPremium": "3.568627450980392"
+ },
+ {
+   "Location": "Sector 22 Dwarka",
+   "LocationPremium": "3.7491742175943457"
+ },
+ {
+   "Location": "Sector 22 Rohini",
+   "LocationPremium": "2.6513789961389964"
+ },
+ {
+   "Location": "Sector 23 Dwarka",
+   "LocationPremium": "3.799909473546644"
+ },
+ {
+   "Location": "Sector 23 Rohini",
+   "LocationPremium": "2.7995349842752524"
+ },
+ {
+   "Location": "Sector 23B Dwarka",
+   "LocationPremium": "3.68421052631579"
+ },
+ {
+   "Location": "Sector 24 Rohini",
+   "LocationPremium": "3.3250133554171395"
+ },
+ {
+   "Location": "Sector 25 Rohini",
+   "LocationPremium": "4.23202614379085"
+ },
+ {
+   "Location": "Sector 3 Dwarka",
+   "LocationPremium": "3.409044674828706"
+ },
+ {
+   "Location": "Sector 33 Rohini",
+   "LocationPremium": "2.5352455031599415"
+ },
+ {
+   "Location": "Sector 37 Rohini",
+   "LocationPremium": "1.4054901960784316"
+ },
+ {
+   "Location": "Sector 4",
+   "LocationPremium": "2.535161115916955"
+ },
+ {
+   "Location": "Sector 4 Dwarka",
+   "LocationPremium": "3.797387032673208"
+ },
+ {
+   "Location": "Sector 4 Rohini",
+   "LocationPremium": "2.7450980392156867"
+ },
+ {
+   "Location": "Sector 5 Dwarka",
+   "LocationPremium": "3.451887734811415"
+ },
+ {
+   "Location": "Sector 6 Dwarka",
+   "LocationPremium": "3.771547545952104"
+ },
+ {
+   "Location": "Sector 7 Dwarka",
+   "LocationPremium": "3.5915260922810432"
+ },
+ {
+   "Location": "Sector 8 Dwarka Block B",
+   "LocationPremium": "2.1671826625387"
+ },
+ {
+   "Location": "Sector 9 Dwarka",
+   "LocationPremium": "3.4004499069315535"
+ },
+ {
+   "Location": "Sector 9 Rohini",
+   "LocationPremium": "5.440178557825617"
+ },
+ {
+   "Location": "Sector-14 Rohini",
+   "LocationPremium": "5.315077755240027"
+ },
+ {
+   "Location": "Sector-18 Dwarka",
+   "LocationPremium": "3.535295362885966"
+ },
+ {
+   "Location": "Sector-7 Rohini",
+   "LocationPremium": "4.437908496732026"
+ },
+ {
+   "Location": "Sector-8 Rohini",
+   "LocationPremium": "3.9822505404482875"
+ },
+ {
+   "Location": "Sector-D Vasant Kunj",
+   "LocationPremium": "6.389452332657201"
+ },
+ {
+   "Location": "Sector24",
+   "LocationPremium": "6.297577854671281"
+ },
+ {
+   "Location": "Sewak Park",
+   "LocationPremium": "2.5393313362381993"
+ },
+ {
+   "Location": "Shahdara",
+   "LocationPremium": "2.6062026127598736"
+ },
+ {
+   "Location": "Shaheen Bagh Jamia Nagar",
+   "LocationPremium": "2.6905106875695113"
+ },
+ {
+   "Location": "Shakti Nagar",
+   "LocationPremium": "5.479237603224923"
+ },
+ {
+   "Location": "Shakurbasti",
+   "LocationPremium": "2.101318819342684"
+ },
+ {
+   "Location": "Shankar Vihar",
+   "LocationPremium": "1.4695385648906243"
+ },
+ {
+   "Location": "Shanti Park Dwarka",
+   "LocationPremium": "3.349280192257989"
+ },
+ {
+   "Location": "Shastri Nagar",
+   "LocationPremium": "3.674486461251168"
+ },
+ {
+   "Location": "Sheikh Sarai",
+   "LocationPremium": "3.4495139948849105"
+ },
+ {
+   "Location": "Sheikh Sarai Phase2 New Delhi",
+   "LocationPremium": "3.6577828054298647"
+ },
+ {
+   "Location": "Shivalik",
+   "LocationPremium": "1.3725490196078434"
+ },
+ {
+   "Location": "Sidhartha Nagar",
+   "LocationPremium": "3.556149732620321"
+ },
+ {
+   "Location": "Som Vihar",
+   "LocationPremium": "1.8941176470588237"
+ },
+ {
+   "Location": "South Delhi",
+   "LocationPremium": "4.411764705882353"
+ },
+ {
+   "Location": "South Extension 2",
+   "LocationPremium": "4.137654434814679"
+ },
+ {
+   "Location": "Sushant Lok Phase 1 Barakhamba",
+   "LocationPremium": "1.0522875816993464"
+ },
+ {
+   "Location": "Tagore Garden Extension",
+   "LocationPremium": "2.9738562091503273"
+ },
+ {
+   "Location": "Transit Camp",
+   "LocationPremium": "1.69281045751634"
+ },
+ {
+   "Location": "Uttam Nagar",
+   "LocationPremium": "2.1288782971504725"
+ },
+ {
+   "Location": "Vaishali",
+   "LocationPremium": "2.6328449595451566"
+ },
+ {
+   "Location": "Vasant Kunj",
+   "LocationPremium": "4.298965314102615"
+ },
+ {
+   "Location": "Vasant Kunj Marg",
+   "LocationPremium": "2.9411764705882355"
+ },
+ {
+   "Location": "Vasant Vihar",
+   "LocationPremium": "2.053104575163399"
+ },
+ {
+   "Location": "Vasundhara Enclave",
+   "LocationPremium": "2.704546589433736"
+ },
+ {
+   "Location": "Vijay Mandal Enclave",
+   "LocationPremium": "2.230392156862745"
+ },
+ {
+   "Location": "Vikas Puri",
+   "LocationPremium": "3.3953296132441118"
+ },
+ {
+   "Location": "Vishal Enclave",
+   "LocationPremium": "2.175149636361317"
+ },
+ {
+   "Location": "West End",
+   "LocationPremium": "3.2767389241145715"
+ },
+ {
+   "Location": "West Punjabi Bagh",
+   "LocationPremium": "2.3711747429680865"
+ },
+ {
+   "Location": "West Sagarpur",
+   "LocationPremium": "2.4019607843137254"
+ },
+ {
+   "Location": "Zakir Nagar",
+   "LocationPremium": "6.290849673202614"
+ },
+ {
+   "Location": "greater kailash Enclave 1",
+   "LocationPremium": "4.741532976827095"
+ },
+ {
+   "Location": "i p extension patparganj",
+   "LocationPremium": "4.779508641401225"
+ },
+ {
+   "Location": "mayur vihar phase 1",
+   "LocationPremium": "3.1708912909893305"
+ },
+ {
+   "Location": "nawada",
+   "LocationPremium": "2.3767452776548277"
+ },
+ {
+   "Location": "param puri",
+   "LocationPremium": "3.294898076618762"
+ },
+ {
+   "Location": "vikaspuri",
+   "LocationPremium": "3.5457516339869284"
+ }
+]
